@@ -1,98 +1,98 @@
 {
-  "Owner":[
+  "Owner": [
     {
-      "Id":1391475335,
-      "Comment":"iamEvan"
+      "Id": 1391475335,
+      "Comment": "iamEvan"
     },
     {
-      "Id":1905715321,
-      "Comment":"Telanthric"
+      "Id": 1905715321,
+      "Comment": "Telanthric"
     },
     {
-      "Id":44059064,
-      "Comment":"iamEvan Alt"
+      "Id": 44059064,
+      "Comment": "iamEvan Alt"
     }
   ],
-  "Admin":[
+  "Admin": [
     {
-      "Id":1931871874,
-      "Comment":"cKev"
+      "Id": 1931871874,
+      "Comment": "cKev"
     },
     {
-      "Id":3449929636,
-      "Comment":"cKev Alt"
+      "Id": 3449929636,
+      "Comment": "cKev Alt"
     },
     {
-      "Id":70849066,
-      "Comment":"Inhe"
+      "Id": 70849066,
+      "Comment": "Inhe"
     },
     {
-      "Id":52392831,
-      "Comment":"Minibloxia"
+      "Id": 52392831,
+      "Comment": "Minibloxia"
     }
   ],
-  "GameModerator":[
+  "GameModerator": [
     {
-      "Id":102885721,
-      "Comment":"bulletchess"
+      "Id": 102885721,
+      "Comment": "bulletchess"
     },
     {
-      "Id":3438657318,
-      "Comment":"AlexanderRulz"
+      "Id": 3438657318,
+      "Comment": "AlexanderRulz"
     },
     {
-      "Id":732442702,
-      "Comment":"Qugo"
+      "Id": 732442702,
+      "Comment": "Qugo"
     },
     {
-      "Id":72384463,
-      "Comment":"EspPurp"
+      "Id": 72384463,
+      "Comment": "EspPurp"
     },
     {
-      "Id":88267985,
-      "Comment":"Mattec"
+      "Id": 88267985,
+      "Comment": "Mattec"
     },
     {
-      "Id":1991362685,
-      "Comment":"Azure"
+      "Id": 1991362685,
+      "Comment": "Azure"
     },
     {
-      "Id":4193156812,
-      "Comment":"iamEvan Alt (iloveplaybedwars123)"
+      "Id": 4193156812,
+      "Comment": "iamEvan Alt (iloveplaybedwars123)"
     }
   ],
-  "YouTubers":[
+  "YouTubers": [
     {
-      "Id":40284786,
-      "Comment":"Zeynalka"
+      "Id": 40284786,
+      "Comment": "Zeynalka"
     },
     {
-      "Id":358182240,
-      "Comment":"BowedCode"
+      "Id": 358182240,
+      "Comment": "BowedCode"
     },
     {
-      "Id":86171379,
-      "Comment":"JS"
+      "Id": 86171379,
+      "Comment": "JS"
     },
     {
-      "Id":351306941,
-      "Comment":"ExactlyNothing"
+      "Id": 351306941,
+      "Comment": "ExactlyNothing"
     },
     {
-      "Id":1826449710,
-      "Comment":"AeryQ"
+      "Id": 1826449710,
+      "Comment": "AeryQ"
     },
     {
-      "Id":682545397,
-      "Comment":"kuzlive"
+      "Id": 682545397,
+      "Comment": "kuzlive"
     },
     {
-      "Id":152420465,
-      "Comment":"HorseManDan"
+      "Id": 152420465,
+      "Comment": "HorseManDan"
     },
     {
-      "Id":2967692374,
-      "Comment":"BaconIsCloned"
+      "Id": 2967692374,
+      "Comment": "BaconIsCloned"
     }
   ]
 }
